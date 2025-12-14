@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(22, 22, 22, 0.842);
+}
+
+.pointer {
+    pointer-events: none;
+}
